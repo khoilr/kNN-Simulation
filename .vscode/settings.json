@@ -1,0 +1,11 @@
+{
+    "cSpell.words": [
+        "arange",
+        "Bioinformatics",
+        "Chebyshev",
+        "colorscale",
+        "kneighbors",
+        "Minkowski"
+    ],
+    "python.analysis.typeCheckingMode": "basic"
+}
